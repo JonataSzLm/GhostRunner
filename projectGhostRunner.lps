@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="projectGhostRunner.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="63"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitjogo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormJogo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="26" Y="269"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unitMenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormMenu"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="65"/>
+        <CursorPos X="14" Y="74"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unitselecao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormSelecao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="59"/>
+        <CursorPos X="20" Y="11"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unitpontuacao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormPontuacao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitPontuacao"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="37"/>
+        <CursorPos X="14" Y="77"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1751"/>
+        <CursorPos X="3" Y="1763"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\winunits-base\src\mmsystem.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2609"/>
+        <CursorPos X="32" Y="2615"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1137"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unitselecao.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="224"/>
+        <CursorPos X="19" Y="245"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="55" Column="19" TopLine="48"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="46" Column="38" TopLine="35"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="9" Column="40" TopLine="4"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="46" Column="3" TopLine="35"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="45" Column="13" TopLine="4"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="424" Column="16" TopLine="414"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="33" Column="9" TopLine="33"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="155" Column="26" TopLine="144"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="258" Column="26" TopLine="248"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="358" Column="26" TopLine="348"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="418" Column="70" TopLine="411"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="155" Column="10" TopLine="152"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="33" Column="23" TopLine="28"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="414" Column="10" TopLine="410"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="410" Column="3" TopLine="408"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="48" Column="29" TopLine="34"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="416" Column="3" TopLine="51"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unitselecao.pas"/>
+        <Caret Line="51" Column="30" TopLine="30"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="51" Column="18" TopLine="47"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unitselecao.pas"/>
+        <Caret Line="5" Column="24"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="362" Column="13" TopLine="359"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="444" Column="50" TopLine="351"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="421" Column="15" TopLine="415"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="42" Column="49" TopLine="29"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unitselecao.pas"/>
+        <Caret Line="51" Column="21" TopLine="36"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unitjogo.pas"/>
+        <Caret Line="425" Column="27" TopLine="419"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unitpontuacao.pas"/>
+        <Caret Line="10" Column="41"/>
+      </Position27>
+      <Position28>
+        <Filename Value="unitMenu.pas"/>
+        <Caret Line="50" Column="31" TopLine="44"/>
+      </Position28>
+      <Position29>
+        <Filename Value="unitselecao.pas"/>
+        <Caret Line="47" Column="21" TopLine="37"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
